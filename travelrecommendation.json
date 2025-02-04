@@ -1,0 +1,86 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "https://cdn.pixabay.com/photo/2014/05/26/09/58/sydney-opera-house-354375_640.jpg",
+          "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "https://cdn.pixabay.com/photo/2017/11/29/14/54/melbourne-2986345_640.jpg",
+          "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "America",
+      "cities": [
+        {
+          "name": "San Francisco, America",
+          "imageUrl": "images/Sanfransico.jpeg",
+          "description": "San Francisco is a vibrant California city renowned for its iconic Golden Gate Bridge, steep hills, Victorian architecture, and diverse cultural scene, often called The City by the Bay."
+        },
+        {
+          "name": "New York, America",
+          "imageUrl": "images/Newyork.jpeg",
+          "description": "New York City, often called The Big Apple, is the most populated city in the United States, renowned for its vibrant cultural hub, towering skyscrapers, and diverse population, located at the southern tip of New York State"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Italy",
+      "cities": [
+        {
+          "name": "Rome, Italy",
+          "imageUrl": "images/Rome.jpeg",
+          "description": "Rome is the historic capital city of Italy, renowned for its ancient architecture, including the Colosseum, and its status as the center of the Catholic Church, often referred to as the Eternal City."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "France",
+      "cities": [
+        {
+          "name": "Paris, France",
+          "imageUrl": "images/Paris.jpeg",
+          "description": "Paris is a renowned European city, often called the City of Love, famed for its iconic landmarks like the Eiffel Tower, romantic atmosphere, and rich history as a center of art, fashion, and culture along the Seine River. "
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Kedarnath, India",
+      "imageUrl": "images/Kedarnath.jpeg",
+      "description": "Kedarnath is a revered Hindu pilgrimage site in the Uttarakhand Himalayas, considered one of the 12 Jyotirlingas of Lord Shiva, located at a high altitude near the Mandakini river and is part of the Char Dham pilgrimage circuit. "
+    },
+    {
+      "id": 2,
+      "name": "Tirupathi, India",
+      "imageUrl": "images/Tirupathi.jpeg",
+      "description": "Tirupati is a city in Andhra Pradesh, India, known for its religious and cultural heritage. It is home to the Tirumala Venkateswara Temple, a major Hindu pilgrimage site. "
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Goa, India",
+      "imageUrl": "images/goa.jpg",
+      "description": "Goa is a coastal Indian state renowned for its stunning beaches, vibrant nightlife, Portuguese-influenced architecture, and laid-back atmosphere, often called the party capital of India."
+    },
+    {
+      "id": 2,
+      "name": "Lakshadweep, India",
+      "imageUrl": "images/Lakshadweep.jpeg",
+      "description": "Lakshadweep is a small, idyllic archipelago of 36 coral islands off India's southwest coast, renowned for its pristine beaches, turquoise waters, and rich marine biodiversity, making it a popular tourist destination for its untouched natural beauty. "
+    }
+  ]
+}
